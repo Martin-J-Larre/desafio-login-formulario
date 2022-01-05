@@ -1,0 +1,36 @@
+.productsContainer {
+	min-height: 600px;
+}
+
+.messageCenterContainer {
+	min-height: 675px;
+}
+
+.productImg {
+	width: 50px;
+}
+
+.chat {
+	min-height: 400px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	list-style-type: none;
+}
+
+.chat li p {
+	margin: 0;
+}
+
+.chat li .avatar {
+	width: 40px;
+}
+
+.chat li .email {
+	color: rgb(52, 140, 255);
+}
+.chat li .date {
+	color: brown;
+}
+.chat li .message {
+	color: green;
+}
