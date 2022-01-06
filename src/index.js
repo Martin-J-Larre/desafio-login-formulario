@@ -45,7 +45,7 @@ app.use(
 	session({
 		store: MongoStore.create({
 			mongoUrl:
-				// direccion de atlas,
+			'mongodb+srv://root:toor@cluster0.zntdz.mongodb.net/test',
 			mongoOptions: { useNewUrlParser: true, useUnifiedTopology: true },
 		}),
 		secret: "This is my secret word.",
