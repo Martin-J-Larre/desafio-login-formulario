@@ -7,7 +7,7 @@
 }
 
 .productImg {
-	width: 50px;
+	width: 75px;
 }
 
 .chat {
@@ -33,4 +33,7 @@
 }
 .chat li .message {
 	color: green;
+}
+.bg-color {
+	background: rgb(12, 168, 59);
 }
