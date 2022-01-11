@@ -17,10 +17,12 @@
 * Poner uri de Atlas mongoDB en src > db > options > mongoDB.js / src > index.js 
 * Conectar Atlas con Mongo Local 
 * Conectar Sqlite3
-![alt text](img-video\sqlStudio.JPG)
+![img](img-video\sqlStudio.JPG)
 * npm run dev
 * Ir al localhost:8000
 
 
+## Presentación
+![img](img-video\desafio-log-in.gif)
 
 
